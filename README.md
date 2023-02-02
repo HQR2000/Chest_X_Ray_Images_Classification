@@ -1,6 +1,6 @@
 # Chest X Ray Images Classification
 
-![Chesr X-ray]()
+![Chesr X-ray](https://github.com/HQR2000/Chest_X_Ray_Images_Classification/blob/main/Public/Chest_X_Ray.png)
 
 ## Abstract
 
@@ -26,7 +26,7 @@ White balance is an image preprocessing methodology used to adjust the appropria
 
 Here shows the core steps for White Balance algorithm:
 
-![White Balance]()
+![White Balance](https://github.com/HQR2000/Chest_X_Ray_Images_Classification/blob/main/Public/White_Balance.png)
 
 #### CLAHE
 
@@ -34,7 +34,7 @@ CLAHE is an effective contrast enhancement method which can effectively increase
 
 The formula for CLAHE is as below:
 
-![CLAHE]()
+![CLAHE](https://github.com/HQR2000/Chest_X_Ray_Images_Classification/blob/main/Public/CLAHE.png)
 
 ### Transfer Learning
 

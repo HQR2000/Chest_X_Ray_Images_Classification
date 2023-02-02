@@ -26,7 +26,7 @@ White balance is an image preprocessing methodology used to adjust the appropria
 
 Here shows the core steps for White Balance algorithm:
 
-![White Balance](https://github.com/HQR2000/Chest_X_Ray_Images_Classification/blob/main/Public/White_Balance.png)
+![White Balance](https://github.com/HQR2000/Chest_X_Ray_Images_Classification/blob/main/Public/Whtie_Balance.png)
 
 #### CLAHE
 

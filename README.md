@@ -56,5 +56,11 @@ The prediction result for the three models for binary classification and multipl
 |   Binary Classification   |      100       |         100         |      98      |
 |  Multiple Classification  |       95       |        97.45        |      90      |
 
+## Project Structure
 
+```
+├─code
+│ ├─CXR_Classification.ipynb.ipynb   # Jupyter Notebook for this project 
+├─Public   # Some of the example images
+```
 
